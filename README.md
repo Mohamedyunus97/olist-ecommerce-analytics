@@ -101,7 +101,10 @@ dim_date ───────┤         │
 | `dim_sellers` | `fact_payments` (grain: 1 row / payment installment) |
 | `dim_date` (generated calendar, 2016–2018) | `fact_reviews` (grain: 1 row / review) |
 
-![Star Schema ERD](powerbi/screenshots/star_schema_erd.png)
+![Star Schema ERD]
+<img width="1168" height="736" alt="Star_scema_erd" src="https://github.com/user-attachments/assets/e5d5327f-68af-4f1e-aa1e-620a1a5fc08e" />
+
+
 
 📄 Full column-level details: [`python/data_dictionary.md`](python/data_dictionary.md)
 
@@ -131,21 +134,29 @@ Full queries: [`sql/analysis_queries.sql`](sql/analysis_queries.sql) · Schema: 
 ### Screenshots
 
 **Executive Overview**
-![Executive Overview](powerbi/screenshots/page1_executive_overview.png)
+<img width="1209" height="744" alt="Page1_Executive_Overview" src="https://github.com/user-attachments/assets/01ee5702-5944-40cc-bb96-077254ff9542" />
+
 
 **Sales Analysis**
-![Sales Analysis](powerbi/screenshots/page2_sales_analysis.png)
+<img width="1172" height="743" alt="Page2_Sales_Analysis" src="https://github.com/user-attachments/assets/3c54d4af-0c13-45bf-9ab3-e9fed82a0295" />
+
 
 **Customer Analysis**
-![Customer Analysis](powerbi/screenshots/page3_customer_analysis.png)
+<img width="1177" height="742" alt="Page3_Customer_Analysis" src="https://github.com/user-attachments/assets/416ad11e-2864-40ae-bb17-2be3c55e7bef" />
+
 
 **Logistics & Satisfaction**
-![Logistics & Satisfaction](powerbi/screenshots/page4_logistics_satisfaction.png)
+<img width="1194" height="745" alt="Page4_Logistics_ _Satisfaction" src="https://github.com/user-attachments/assets/fe6fb00e-b9f1-4330-addf-32382987e540" />
+
+
 
 **Regional Analysis**
-![Regional Analysis](powerbi/screenshots/page5_regional_analysis.png)
+<img width="1197" height="743" alt="Page5_Regional_Analysis" src="https://github.com/user-attachments/assets/d257bd21-24ef-49e2-8fff-37f0e00b04e5" />
 
-Live `.pbix`: [`powerbi/dashboard.pbix`](powerbi/dashboard.pbix)
+
+
+
+Live `.pbix`: [`powerbi/Olist Ecommerce Dashboard.pbix`](powerbi/Olist Ecommerce Dashboard.pbix)
 
 ## 💡 Key Findings
 
@@ -262,6 +273,6 @@ Open `powerbi/dashboard.pbix` in Power BI Desktop, connect to your local `olist_
 **Mohamed Yunus**
 Data Analyst | Python · SQL · Power BI
 
-[GitHub](https://github.com/Mohamedyunus97) · [LinkedIn](https://linkedin.com/in/your-linkedin-handle)
+[GitHub](https://github.com/Mohamedyunus97) · [LinkedIn](www.linkedin.com/in/mohamedyunus097)
 
 ⭐ If you found this project useful, consider giving it a star!
