@@ -134,24 +134,24 @@ Full queries: [`sql/analysis_queries.sql`](sql/analysis_queries.sql) · Schema: 
 ### Screenshots
 
 **Executive Overview**
-<img width="1209" height="744" alt="Page1_Executive_Overview" src="https://github.com/user-attachments/assets/01ee5702-5944-40cc-bb96-077254ff9542" />
+<img width="1212" height="744" alt="Page1_Executive_Overview (2)" src="https://github.com/user-attachments/assets/c458e3a7-cd84-4de0-a0d6-a323b606ffab" />
 
 
 **Sales Analysis**
-<img width="1172" height="743" alt="Page2_Sales_Analysis" src="https://github.com/user-attachments/assets/3c54d4af-0c13-45bf-9ab3-e9fed82a0295" />
+<img width="1171" height="747" alt="Page2_Sales_Analysis (2)" src="https://github.com/user-attachments/assets/27ae63cd-22b3-4d4d-89f7-05d8ee5c0e02" />
 
 
 **Customer Analysis**
-<img width="1177" height="742" alt="Page3_Customer_Analysis" src="https://github.com/user-attachments/assets/416ad11e-2864-40ae-bb17-2be3c55e7bef" />
+<img width="1174" height="746" alt="Page3_Customer_Analysis (2)" src="https://github.com/user-attachments/assets/5d873cb5-2190-4c22-bd48-4f2a671a9855" />
 
 
 **Logistics & Satisfaction**
-<img width="1194" height="745" alt="Page4_Logistics_ _Satisfaction" src="https://github.com/user-attachments/assets/fe6fb00e-b9f1-4330-addf-32382987e540" />
-
+<img width="1193" height="743" alt="Page4_Logistics_ _Satisfaction (2)" src="https://github.com/user-attachments/assets/d2f7fcf8-7243-4f3b-b873-d08bd1bf61b3" />
 
 
 **Regional Analysis**
-<img width="1197" height="743" alt="Page5_Regional_Analysis" src="https://github.com/user-attachments/assets/d257bd21-24ef-49e2-8fff-37f0e00b04e5" />
+<img width="1191" height="742" alt="Page5_Regional_Analysis (2)" src="https://github.com/user-attachments/assets/475c00ee-69ed-435b-9e7d-6706d7e34ecd" />
+
 
 
 
